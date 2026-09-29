@@ -1,0 +1,225 @@
+[
+  {
+    "id": "dark",
+    "title": "Dark",
+    "genre": [
+      "Sci-Fi",
+      "Thriller",
+      "Psychological",
+      "Strategy"
+    ],
+    "rating": 8.7,
+    "poster": "https://image.tmdb.org/t/p/w780/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
+    "creator": "Baran bo Odar and Jantje Friese",
+    "year": 2017,
+    "seasons": 3,
+    "characterFocus": "Jonas Kahnwald",
+    "summary": "A disappearance in Winden exposes a knot of family histories, scientific ambition, and decisions that echo across generations.",
+    "development": "Jonas begins as a grieving teenager searching for a way to undo pain. Each new piece of knowledge complicates his idea of rescue, until he must confront whether preventing suffering can become a rationale for controlling everyone else's choices.",
+    "strategy": "The families treat information as leverage, but secrecy compounds the crisis. Claudia's advantage comes from patient observation across cycles; her limitation is the belief that only she can carry the full plan. The series rewards mapping dependencies, not just searching for a single culprit.",
+    "psychology": "Dark explores how people defend identity when memory and causality become unstable. Grief encourages characters to repeat familiar choices even when they understand the pattern, because familiar pain can feel safer than uncertain freedom.",
+    "lifeLesson": "Understanding a pattern is not the same as escaping it; change requires a different choice at the point where the old one feels inevitable.",
+    "favoriteQuote": "“The beginning is the end, and the end is the beginning.” — Dark",
+    "relatedMovies": [
+      "arrival",
+      "tenet",
+      "interstellar",
+      "inception"
+    ]
+  },
+  {
+    "id": "game-of-thrones",
+    "title": "Game of Thrones",
+    "genre": [
+      "Adventure",
+      "Thriller",
+      "Strategy",
+      "Psychological"
+    ],
+    "rating": 9.2,
+    "poster": "assets/series/game-of-thrones.jpg",
+    "creator": "David Benioff and D. B. Weiss",
+    "year": 2011,
+    "seasons": 8,
+    "characterFocus": "Tyrion Lannister",
+    "summary": "Noble houses compete for a throne while ordinary people absorb the cost of decisions made far above them.",
+    "development": "Tyrion's wit begins as a survival tool in a family that treats him as a liability. He grows into a political adviser by turning observation into influence, yet his later failures show that insight without reliable trust can become cleverness circling its own blind spots.",
+    "strategy": "The series treats power as a network of resources: reputation, marriage, food, armies, information, and legitimacy. Littlefinger reads incentives sharply but mistakes manipulation for durable control; Varys builds information systems but must decide what good his secrecy serves.",
+    "psychology": "Characters often choose the story that protects their self-image. Jaime's arc is compelling because identity built around honor, shame, and family loyalty keeps colliding until he has to decide which version of himself is worth defending.",
+    "lifeLesson": "Strategic intelligence matters, but the people who bear the cost of your plan eventually become part of its outcome.",
+    "favoriteQuote": "“A mind needs books as a sword needs a whetstone.” — Tyrion Lannister",
+    "relatedMovies": [
+      "dune-part-two",
+      "the-dark-knight",
+      "casino-royale",
+      "kgf-chapter-two"
+    ]
+  },
+  {
+    "id": "stranger-things",
+    "title": "Stranger Things",
+    "genre": [
+      "Sci-Fi",
+      "Thriller",
+      "Adventure",
+      "Psychological"
+    ],
+    "rating": 8.7,
+    "poster": "https://image.tmdb.org/t/p/w780/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+    "creator": "The Duffer Brothers",
+    "year": 2016,
+    "seasons": 4,
+    "characterFocus": "Eleven",
+    "summary": "A girl raised as an experiment finds friendship in Hawkins as the boundary between her world and a predatory dimension begins to fail.",
+    "development": "Eleven's journey moves from being treated as a weapon toward naming her own needs and choosing her relationships. Her strength grows alongside her ability to accept help, not as a substitute for agency but as a way to exercise it.",
+    "strategy": "The kids win by sharing partial knowledge across distinct groups. Dustin translates clues, Nancy investigates, Steve protects, and Eleven confronts threats the others cannot. Their plans work when they coordinate; they become fragile when adults or institutions hoard the facts.",
+    "psychology": "The Upside Down externalizes fear and unresolved trauma, but the series keeps recovery relational. Being believed and accompanied changes what the characters can face, even when it does not erase what happened.",
+    "lifeLesson": "Courage is not becoming impossible to hurt; it is finding people with whom you can act while afraid.",
+    "favoriteQuote": "“Friends don't lie.” — Eleven",
+    "relatedMovies": [
+      "the-matrix",
+      "edge-of-tomorrow",
+      "atlas",
+      "the-adam-project"
+    ]
+  },
+  {
+    "id": "from",
+    "title": "From",
+    "genre": [
+      "Sci-Fi",
+      "Thriller",
+      "Psychological",
+      "Mystery"
+    ],
+    "rating": 7.7,
+    "poster": "assets/series/from.jpg",
+    "creator": "John Griffin",
+    "year": 2022,
+    "seasons": 3,
+    "characterFocus": "Boyd Stevens",
+    "summary": "A trapped town survives by strict routines while its residents search for a way out and try to understand the rules of a place that seems to punish certainty.",
+    "development": "Boyd's military past makes him the person others expect to hold the line. As new crises expose the limits of his authority, his growth depends on admitting when endurance has become stubbornness and sharing the burden of decisions.",
+    "strategy": "The town uses practical protocols—shelter, watch, rules, and resource management—to reduce immediate risk. Mystery-solving requires a second system: documenting observations, testing hypotheses safely, and communicating results before a private theory becomes public policy.",
+    "psychology": "Isolation magnifies fear and makes coincidence feel like a message. The residents face an exhausting choice between maintaining hope and protecting themselves from another promise that may fail.",
+    "lifeLesson": "In an uncertain environment, routines keep people alive while curiosity keeps them moving; a healthy community needs both.",
+    "favoriteQuote": "“If you look at the trees, you can see they're moving.” — From",
+    "relatedMovies": [
+      "arrival",
+      "the-dark-knight",
+      "edge-of-tomorrow",
+      "the-matrix"
+    ]
+  },
+  {
+    "id": "breaking-bad",
+    "title": "Breaking Bad",
+    "genre": [
+      "Thriller",
+      "Psychological",
+      "Strategy",
+      "Action"
+    ],
+    "rating": 9.5,
+    "poster": "https://image.tmdb.org/t/p/w780/3xnWaLQjelJDDF7LT1WBo6f4BRe.jpg",
+    "creator": "Vince Gilligan",
+    "year": 2008,
+    "seasons": 5,
+    "characterFocus": "Walter White and Jesse Pinkman",
+    "summary": "A chemistry teacher enters the drug trade after a diagnosis, and a chain of choices steadily reveals how much of his transformation was permission rather than necessity.",
+    "development": "Walter's initial fear and care for his family give way to a need for recognition and control. Jesse's arc moves in the opposite direction: from reckless self-protection toward a painful moral awareness that cannot undo the harm he has helped cause.",
+    "strategy": "Walt repeatedly converts technical expertise into tactical advantage, but his strongest plays create new dependencies and enemies. Gus demonstrates patient systems thinking; Mike understands operational discipline. Both expose how Walt's need to be seen eventually outranks the plan.",
+    "psychology": "The series studies rationalization in real time. Walt edits his motives until pride can wear the language of provision, while Jesse's guilt shows the emotional cost of treating harm as an abstraction.",
+    "lifeLesson": "A good explanation for how you started does not excuse the choices you keep making once you have alternatives.",
+    "favoriteQuote": "“I am the one who knocks.” — Walter White",
+    "relatedMovies": [
+      "oppenheimer",
+      "casino-royale",
+      "the-dark-knight",
+      "kgf-chapter-one"
+    ]
+  },
+  {
+    "id": "sherlock",
+    "title": "Sherlock",
+    "genre": [
+      "Thriller",
+      "Psychological",
+      "Strategy",
+      "Action"
+    ],
+    "rating": 9.1,
+    "poster": "https://image.tmdb.org/t/p/w780/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+    "creator": "Mark Gatiss and Steven Moffat",
+    "year": 2010,
+    "seasons": 4,
+    "characterFocus": "Sherlock Holmes and John Watson",
+    "summary": "A brilliant consulting detective and a returning army doctor solve modern crimes in London while learning that observation alone cannot sustain a friendship.",
+    "development": "Sherlock's evolution is uneven by design: intellectual mastery gives him status, but John's steady presence asks him to practice loyalty and accountability. John also changes from observer to a person willing to challenge the version of Sherlock that everyone else excuses.",
+    "strategy": "Sherlock rapidly narrows possibilities from physical clues, while Moriarty treats attention and narrative as weapons. John provides a reality check: he notices what Sherlock's model leaves out, including emotional consequences and human behavior that resists tidy deduction.",
+    "psychology": "The 'high-functioning' persona is a defense against intimacy and boredom. The show is strongest when it lets Sherlock's dependence on John complicate his claim to need no one.",
+    "lifeLesson": "Being perceptive about strangers is not the same as being attentive to the people who stay.",
+    "favoriteQuote": "“The game is on.” — Sherlock Holmes",
+    "relatedMovies": [
+      "sherlock-holmes",
+      "inception",
+      "red-notice",
+      "the-dark-knight"
+    ]
+  },
+  {
+    "id": "black-mirror",
+    "title": "Black Mirror",
+    "genre": [
+      "Sci-Fi",
+      "Psychological",
+      "Thriller"
+    ],
+    "rating": 8.7,
+    "poster": "https://image.tmdb.org/t/p/w780/7PRddO7z7mcPi21nZTCMGShAyy1.jpg",
+    "creator": "Charlie Brooker",
+    "year": 2011,
+    "seasons": 7,
+    "characterFocus": "The person behind the screen",
+    "summary": "An anthology of near-future stories follows ordinary people as technology amplifies social incentives, private fears, and the consequences of being watched.",
+    "development": "Because each story is self-contained, character change arrives under pressure: a person discovers what they will trade for approval, safety, revenge, or a second chance. The technology rarely creates the desire; it makes the desire measurable and scalable.",
+    "strategy": "The recurring system is incentive design. Ratings, recordings, simulations, and automated decisions reward behavior until people begin optimizing for the interface instead of the life it represents. The strategic question is who designed the rules and who can appeal them.",
+    "psychology": "Black Mirror is interested in the gap between intention and impact. People tell themselves a tool is neutral while relying on it to validate an existing bias, outsource discomfort, or preserve a flattering self-image.",
+    "lifeLesson": "Before asking whether a technology can do something, ask which human incentive it will strengthen when it does.",
+    "favoriteQuote": "“The people who really know where they are, are the ones who know where they're not.” — Black Mirror",
+    "relatedMovies": [
+      "the-matrix",
+      "ex-machina",
+      "atlas",
+      "arrival"
+    ]
+  },
+  {
+    "id": "mr-robot",
+    "title": "Mr. Robot",
+    "genre": [
+      "Thriller",
+      "Psychological",
+      "Strategy",
+      "Sci-Fi"
+    ],
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg",
+    "creator": "Sam Esmail",
+    "year": 2015,
+    "seasons": 4,
+    "characterFocus": "Elliot Alderson",
+    "summary": "A cybersecurity engineer and hacker is recruited into a campaign against corporate power while his perception of events becomes part of the story's central uncertainty.",
+    "development": "Elliot begins convinced that isolation keeps him safe and that exposing a system is the same as helping the people inside it. His growth is painful: he has to recognize how trauma shapes his choices and how liberation without consent can reproduce the control he opposes.",
+    "strategy": "fsociety's operations show the difference between technical access and strategic understanding. A successful disruption changes dependencies, but the aftermath belongs to people who were never asked whether they wanted the system taken apart. Elliot's best later moves begin with listening rather than assuming the objective is obvious.",
+    "psychology": "The series uses unreliable perspective to make viewers experience Elliot's defenses from the inside. Dissociation, loneliness, and the hunger to matter are treated as human realities, not aesthetic superpowers.",
+    "lifeLesson": "A cause can be righteous and still cause harm when the people it claims to free have no voice in the plan.",
+    "favoriteQuote": "“Hello, friend.” — Elliot Alderson",
+    "relatedMovies": [
+      "the-matrix",
+      "ex-machina",
+      "inception",
+      "oppenheimer"
+    ]
+  }
+]
